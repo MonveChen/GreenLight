@@ -3,13 +3,14 @@
     "publisher": "Monve",
     "displayName": "GreenLight",
     "description": "eye protection green",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
