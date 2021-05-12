@@ -570,7 +570,7 @@
                 "invalid.illegal"
             ],
             "settings":{
-                "foreground":"#FFFFFF",
+                "foreground":"#FF0000",
             }
         },
         {
