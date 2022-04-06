@@ -1,5 +1,5 @@
 {
-    "name": "GreenLight",
+    "name": "green-light",
     "publisher": "Monve",
     "displayName": "GreenLight",
     "description": "eye protection green",
@@ -16,7 +16,7 @@
             {
                 "label": "GreenLight",
                 "uiTheme": "vs",
-                "path": "./themes/GreenLight-color-theme.json"
+                "path": "./themes/GreenLight-color-theme_plus.json"
             }
         ]
     },
