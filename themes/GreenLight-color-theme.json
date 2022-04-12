@@ -1542,9 +1542,12 @@
     },
     {
       "scope": [
+        "support.type.vendored.property-name",
+        "support.type.property-name",
         "variable.css",
         "variable.scss",
-        "variable.other.less"
+        "variable.other.less",
+        "source.coffee.embedded"
       ],
       "settings": {
         "foreground": "#B72619"
