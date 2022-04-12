@@ -1539,7 +1539,17 @@
       "settings": {
         "foreground": "#A626A4"
       }
-    }
+    },
+    {
+      "scope": [
+        "variable.css",
+        "variable.scss",
+        "variable.other.less"
+      ],
+      "settings": {
+        "foreground": "#B72619"
+      }
+    },
   ],
   "uuid": "1446a9a1-9d70-421a-bae3-87b3b112ddb0"
 }
